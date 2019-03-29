@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: 3d590c8f3461adf45b4febba8cd12e6c
+timeCreated: 1471053038
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: char_motion (1)_0
+    21300002: char_motion (1)_1
+    21300004: char_motion (1)_2
+    21300006: char_motion (1)_3
+    21300008: char_motion (1)_4
+    21300010: char_motion (1)_5
+    21300012: char_motion (1)_6
+    21300014: char_motion (1)_7
+    21300016: char_motion (1)_8
+    21300018: char_motion (1)_9
+    21300020: char_motion (1)_10
+    21300022: char_motion (1)_11
+    21300024: char_motion (1)_12
+    21300026: char_motion (1)_13
+    21300028: char_motion (1)_15
+    21300030: char_motion (1)_17
+    21300032: char_motion (1)_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: char_motion (1)_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1838
+        width: 124
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 9.5}
+        - {x: 42, y: 13.5}
+        - {x: 46, y: 48.5}
+        - {x: 14, y: 65.5}
+        - {x: -40, y: 65.5}
+        - {x: -62, y: 26.5}
+        - {x: -62, y: -3.5}
+        - {x: -50, y: -65.5}
+        - {x: 40, y: -65.5}
+        - {x: 45, y: -63.5}
+        - {x: 62, y: -16.5}
+        - {x: 62, y: 6.5}
+    - name: char_motion (1)_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1838
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 64}
+        - {x: -62, y: -64}
+        - {x: 56, y: -64}
+        - {x: 62, y: -38}
+        - {x: 62, y: 32}
+        - {x: 25, y: 64}
+    - name: char_motion (1)_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1838
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 64}
+        - {x: -62, y: 33}
+        - {x: -62, y: -64}
+        - {x: 62, y: -64}
+        - {x: 62, y: 62}
+        - {x: 44, y: 64}
+    - name: char_motion (1)_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1838
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 62.5}
+        - {x: -62, y: 59.5}
+        - {x: -62, y: -22.5}
+        - {x: -57, y: -62.5}
+        - {x: 42, y: -62.5}
+        - {x: 47, y: -61.5}
+        - {x: 62, y: -42.5}
+        - {x: 62, y: 61.5}
+        - {x: 55, y: 62.5}
+    - name: char_motion (1)_4
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1838
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 64}
+        - {x: -62, y: 33}
+        - {x: -62, y: -64}
+        - {x: 62, y: -64}
+        - {x: 62, y: 62}
+        - {x: 44, y: 64}
+    - name: char_motion (1)_5
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1838
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 64}
+        - {x: -62, y: -64}
+        - {x: 56, y: -64}
+        - {x: 62, y: -38}
+        - {x: 62, y: 32}
+        - {x: 25, y: 64}
+    - name: char_motion (1)_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1646
+        width: 123
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: 5.5}
+        - {x: 41.5, y: 11.5}
+        - {x: 53.5, y: 49.5}
+        - {x: 7.5, y: 64.5}
+        - {x: -36.5, y: 64.5}
+        - {x: -45.5, y: 54.5}
+        - {x: -61.5, y: 20.5}
+        - {x: -61.5, y: 11.5}
+        - {x: -49.5, y: 11.5}
+        - {x: -61.5, y: -28.5}
+        - {x: -61.5, y: -64.5}
+        - {x: 26.5, y: -64.5}
+        - {x: 42.5, y: -56.5}
+        - {x: 61.5, y: -17.5}
+    - name: char_motion (1)_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1646
+        width: 123
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 67.5}
+        - {x: -61.5, y: 32.5}
+        - {x: -61.5, y: 14.5}
+        - {x: -49.5, y: 14.5}
+        - {x: -54.5, y: -48.5}
+        - {x: -55.5, y: -59.5}
+        - {x: -46.5, y: -67.5}
+        - {x: 23.5, y: -67.5}
+        - {x: 61.5, y: -11.5}
+        - {x: 61.5, y: 56.5}
+        - {x: 25.5, y: 67.5}
+    - name: char_motion (1)_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1646
+        width: 123
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 52}
+        - {x: 6.5, y: 69}
+        - {x: -39.5, y: 69}
+        - {x: -61.5, y: 33}
+        - {x: -61.5, y: 13}
+        - {x: -43.5, y: -69}
+        - {x: 16.5, y: -69}
+        - {x: 61.5, y: -10}
+        - {x: 61.5, y: 10}
+        - {x: 41.5, y: 16}
+    - name: char_motion (1)_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1646
+        width: 123
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 67.5}
+        - {x: -61.5, y: 32.5}
+        - {x: -61.5, y: 14.5}
+        - {x: -49.5, y: 14.5}
+        - {x: -52.5, y: -59.5}
+        - {x: -47.5, y: -67.5}
+        - {x: 24.5, y: -67.5}
+        - {x: 61.5, y: -4.5}
+        - {x: 61.5, y: 56.5}
+        - {x: 25.5, y: 67.5}
+    - name: char_motion (1)_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1646
+        width: 123
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 64.5}
+        - {x: -36.5, y: 64.5}
+        - {x: -45.5, y: 54.5}
+        - {x: -61.5, y: 20.5}
+        - {x: -61.5, y: -6.5}
+        - {x: -59.5, y: -53.5}
+        - {x: -52.5, y: -64.5}
+        - {x: 35.5, y: -64.5}
+        - {x: 61.5, y: -54.5}
+        - {x: 61.5, y: 27.5}
+        - {x: 53.5, y: 49.5}
+    - name: char_motion (1)_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1646
+        width: 123
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 67.5}
+        - {x: -61.5, y: 32.5}
+        - {x: -61.5, y: 14.5}
+        - {x: -49.5, y: 14.5}
+        - {x: -52.5, y: -59.5}
+        - {x: -47.5, y: -67.5}
+        - {x: 24.5, y: -67.5}
+        - {x: 61.5, y: -4.5}
+        - {x: 61.5, y: 56.5}
+        - {x: 25.5, y: 67.5}
+    - name: char_motion (1)_12
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1646
+        width: 123
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 52}
+        - {x: 6.5, y: 69}
+        - {x: -39.5, y: 69}
+        - {x: -61.5, y: 33}
+        - {x: -61.5, y: 13}
+        - {x: -43.5, y: -69}
+        - {x: 16.5, y: -69}
+        - {x: 61.5, y: -10}
+        - {x: 61.5, y: 10}
+        - {x: 41.5, y: 16}
+    - name: char_motion (1)_13
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1646
+        width: 123
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 67.5}
+        - {x: -61.5, y: 32.5}
+        - {x: -61.5, y: 14.5}
+        - {x: -49.5, y: 14.5}
+        - {x: -54.5, y: -48.5}
+        - {x: -55.5, y: -59.5}
+        - {x: -46.5, y: -67.5}
+        - {x: 23.5, y: -67.5}
+        - {x: 61.5, y: -11.5}
+        - {x: 61.5, y: 56.5}
+        - {x: 25.5, y: 67.5}
+    - name: char_motion (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1658
+        width: 192
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 44.5}
+        - {x: -87, y: -1.5}
+        - {x: -87, y: -44.5}
+        - {x: -20, y: -80.5}
+        - {x: 13, y: -80.5}
+        - {x: 31, y: -73.5}
+        - {x: 40, y: -55.5}
+        - {x: 40, y: -16.5}
+        - {x: 14, y: 44.5}
+      - - {x: 68, y: 35.5}
+        - {x: 39, y: 22.5}
+        - {x: 39, y: -25.5}
+        - {x: 66, y: -25.5}
+        - {x: 96, y: 18.5}
+        - {x: 96, y: 35.5}
+      - - {x: -58, y: 80.5}
+        - {x: -93, y: 73.5}
+        - {x: -93, y: -1.5}
+        - {x: -82, y: -1.5}
+        - {x: -26, y: 62.5}
+        - {x: -26, y: 80.5}
+    - name: char_motion (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1652
+        width: 189
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 57.5}
+        - {x: -19.5, y: 68.5}
+        - {x: -78.5, y: 68.5}
+        - {x: -94.5, y: 54.5}
+        - {x: -94.5, y: 3.5}
+        - {x: -90.5, y: 3.5}
+        - {x: -73.5, y: 10.5}
+        - {x: -82.5, y: -33.5}
+        - {x: -72.5, y: -60.5}
+        - {x: -28.5, y: -77.5}
+        - {x: -2.5, y: -83.5}
+        - {x: 25.5, y: -83.5}
+        - {x: 45.5, y: -62.5}
+        - {x: 45.5, y: -44.5}
+        - {x: 32.5, y: -25.5}
+      - - {x: 72.5, y: 20.5}
+        - {x: 50.5, y: 1.5}
+        - {x: 50.5, y: -39.5}
+        - {x: 60.5, y: -49.5}
+        - {x: 70.5, y: -49.5}
+        - {x: 77.5, y: -46.5}
+        - {x: 80.5, y: -39.5}
+        - {x: 90.5, y: -0.5}
+        - {x: 90.5, y: 20.5}
+    - name: char_motion (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1649
+        width: 175
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 55.5}
+        - {x: -6.5, y: 66.5}
+        - {x: -62.5, y: 66.5}
+        - {x: -76.5, y: 62.5}
+        - {x: -87.5, y: 28.5}
+        - {x: -87.5, y: -18.5}
+        - {x: -69.5, y: -70.5}
+        - {x: 49.5, y: -70.5}
+        - {x: 49.5, y: -38.5}
+      - - {x: 51.5, y: -2.5}
+        - {x: 51.5, y: -57.5}
+        - {x: 64.5, y: -70.5}
+        - {x: 87.5, y: -70.5}
+        - {x: 87.5, y: -39.5}
+        - {x: 67.5, y: -2.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
